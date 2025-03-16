@@ -59,6 +59,18 @@ Then open **http://localhost:3000** in your browser.
 
 ![image](https://github.com/user-attachments/assets/4f651d0e-9937-4067-83e3-b3c8977fb247)
 
+K8's 
+![image](https://github.com/user-attachments/assets/1dcbb0d3-c52c-46bd-83a9-864d84d8d464)
+![image](https://github.com/user-attachments/assets/5573f6f5-6473-4ff8-b213-951eee635955)
+![image](https://github.com/user-attachments/assets/983b16e1-522b-43ba-b053-f37368c3697e)
+
+Grafana Dashboard
+![image](https://github.com/user-attachments/assets/7894496b-30d7-4dac-b18c-3eca777cb732)
+![image](https://github.com/user-attachments/assets/bc086960-1389-4c7d-aa2b-ae3cd12c4c8d)
+![image](https://github.com/user-attachments/assets/75cec44e-de05-4d3a-81ca-bb2a897755e0)
+![image](https://github.com/user-attachments/assets/51a042fd-a52b-42a2-bf29-ac9659269ab6)
+![image](https://github.com/user-attachments/assets/0a716caf-2e4e-427f-8d27-1d0f67891dfb)
+
 
 ---
 
