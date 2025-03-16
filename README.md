@@ -57,6 +57,9 @@ Then open **http://localhost:3000** in your browser.
 ## 📷 Screenshots
 (Add images of Jenkins pipeline, Kubernetes pods, and Grafana dashboard)
 
+![image](https://github.com/user-attachments/assets/4f651d0e-9937-4067-83e3-b3c8977fb247)
+
+
 ---
 
 ## 📌 Future Enhancements
