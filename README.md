@@ -14,7 +14,7 @@ This project demonstrates a complete **CI/CD pipeline** using **Jenkins, Docker,
 1. **Infrastructure Setup** (AWS VPC, EC2, EKS cluster)
 2. **Jenkins Setup** (Local or AWS-based)
 3. **CI/CD Pipeline Implementation**
-4. **Kubernetes Deployment** (Application on EKS)
+4. **Kubernetes Deployment with Auto-Scaling** (Application on EKS)
 5. **Monitoring Setup** (Prometheus & Grafana Dashboard)
 
 ---
@@ -23,9 +23,8 @@ This project demonstrates a complete **CI/CD pipeline** using **Jenkins, Docker,
 - **AWS**: EC2, IAM, EKS, VPC
 - **Jenkins**: CI/CD automation
 - **Docker**: Containerization
-- **Kubernetes**: Deployment & orchestration
+- **Kubernetes**: Deployment, Autoscaling with HPA & Resource Limits
 - **Prometheus & Grafana**: Monitoring & visualization
-
 ---
 
 ## 📜 Setup Instructions
